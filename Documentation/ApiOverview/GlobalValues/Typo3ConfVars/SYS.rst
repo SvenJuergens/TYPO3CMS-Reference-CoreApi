@@ -372,7 +372,7 @@ $GLOBALS['TYPO3_CONF_VARS']['SYS']['UTF8filesystem']
    **IMPORTANT** This requires a UTF-8 compatible locale in order to work.
    Otherwise problems with filenames containing special characters will occur.
    See :ref:`[SYS][systemLocale]<typo3ConfVars_sys_UTF8filesystem>` and
-   `php function setlocale() <https//php.net/manual/en/function.setlocale.php>`__.
+   `php function setlocale() <https://php.net/manual/en/function.setlocale.php>`__.
 
 .. index::
    TYPO3_CONF_VARS SYS; systemLocale
@@ -389,7 +389,7 @@ $GLOBALS['TYPO3_CONF_VARS']['SYS']['systemLocale']
    Locale used for certain system related functions, for example escaping shell
    commands. If problems with filenames containing special characters occur,
    the value of this option is probably wrong. See
-   `php function setlocale() <https//php.net/manual/en/function.setlocale.php>`__.
+   `php function setlocale() <https://php.net/manual/en/function.setlocale.php>`__.
 
 .. index::
    TYPO3_CONF_VARS SYS; reverseProxyIP
